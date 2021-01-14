@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/IGA-test/static/css/main.ee804449.chunk.css",
-    "main.js": "/IGA-test/static/js/main.631a0fbe.chunk.js",
-    "main.js.map": "/IGA-test/static/js/main.631a0fbe.chunk.js.map",
+    "main.js": "/IGA-test/static/js/main.a53bec00.chunk.js",
+    "main.js.map": "/IGA-test/static/js/main.a53bec00.chunk.js.map",
     "runtime-main.js": "/IGA-test/static/js/runtime-main.67657dce.js",
     "runtime-main.js.map": "/IGA-test/static/js/runtime-main.67657dce.js.map",
     "static/js/2.21eb21be.chunk.js": "/IGA-test/static/js/2.21eb21be.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.67657dce.js",
     "static/js/2.21eb21be.chunk.js",
     "static/css/main.ee804449.chunk.css",
-    "static/js/main.631a0fbe.chunk.js"
+    "static/js/main.a53bec00.chunk.js"
   ]
 }
