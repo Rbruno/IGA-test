@@ -12,17 +12,17 @@ function App() {
         <NavComponent />
         <Switch>
 
-          <Route path="/user/historial">
+          <Route path="/IGA-test/user/historial">
             <HistorialComponent />
           </Route>
 
-          <Route path="/:github" component={Home}>
+          <Route path="/IGA-test/:github" component={Home}>
           </Route>
 
-          <Route path="/">
+          <Route path="/IGA-test/">
             <Home />
           </Route>
-
+          <Route component={Home} />
         </Switch>
       </div>
   );

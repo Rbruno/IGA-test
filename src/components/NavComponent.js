@@ -11,10 +11,10 @@ function NavComponent() {
             <div className="collapse navbar-collapse" id="navbarNavDropdown">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <NavLink to={'/'}>Inicio</NavLink>
+                  <NavLink to={'/IGA-test/'}>Inicio</NavLink>
                 </li>
                 <li className="nav-item">
-                <NavLink to={'/user/historial'}>Historial</NavLink>
+                <NavLink to={'/IGA-test/user/historial'}>Historial</NavLink>
                 </li>
               </ul>
             </div>

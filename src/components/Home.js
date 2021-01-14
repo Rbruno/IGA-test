@@ -5,7 +5,7 @@ import _ from 'lodash';
 import GithubDataComponent from './GithubDataComponent';
 
 function Home(props) {
-    let [username, setusername] = useState(!_.isEmpty(props) ? props.location.pathname.substr(1) : '');
+    let [username, setusername] = useState(!_.isEmpty(props) ? props.location.pathname.substr(10) : '');
     const dispatch = useDispatch();
     const GithubData = useSelector(state => state.GithubData);
  

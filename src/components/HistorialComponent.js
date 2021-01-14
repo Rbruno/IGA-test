@@ -18,7 +18,7 @@ function HistorialComponent() {
             
             historial.map((el) => {
                     return (
-                        <NavLink to={`/${el[1]}`} key={el[0]} className='TextNoDecoration'><li className="list-group-item list-group-item-action text-center" key={el[0]}>{el[1]}</li></NavLink>
+                        <NavLink to={`/IGA-test/${el[1]}`} key={el[0]} className='TextNoDecoration'><li className="list-group-item list-group-item-action text-center" key={el[0]}>{el[1]}</li></NavLink>
                     )
                 })
             )
